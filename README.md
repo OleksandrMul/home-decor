@@ -4,9 +4,7 @@
 
 [![Watch Video Presentation](img/mockup_house_decor.webp)](https://youtu.be/U_VeakRUmYE?si=7Z0B3hQMQWi9AEDJ)
 
-<a href="https://oleksandrmul.github.io/home-decor/" target="_blank">
-  🌐 View Live Project
-</a>
+🌐 [View Live Project](https://oleksandrmul.github.io/home-decor/)
 
 ---
 
